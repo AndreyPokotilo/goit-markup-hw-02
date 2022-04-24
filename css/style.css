@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #FFFFFF ;
+    background-color: var(--primari-white-color);
     font-family: 'Roboto', sans-serif;
 }
 
