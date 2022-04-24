@@ -81,6 +81,7 @@ a {
 .button-hero {
     background-color: var(--accent-color);
     color: var(--primari-white-color);
+    font-family: 'Roboto';
     font-weight: 700;
     font-size: 16px;
     line-height: 1.2;
@@ -187,6 +188,7 @@ a {
 
 /*Портфолио фильтр*/
 .button-filter {
+    font-family: 'Roboto';
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
